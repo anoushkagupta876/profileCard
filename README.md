@@ -4,8 +4,6 @@
 
 - Build out the project to the designs provided
 
-### Screenshot
-
 ![](./screenshot.jpg)
 
 - Live Site URL: [profileCard](https://anoushkagupta876.github.io/profileCard/)
