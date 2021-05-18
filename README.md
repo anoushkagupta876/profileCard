@@ -4,7 +4,6 @@
 
 - Build out the project to the designs provided
 
-<<<<<<< HEAD
 ### Screenshot
 
 ![](./screenshot.png)
