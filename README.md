@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 - Live Site URL: [profileCard](https://anoushkagupta876.github.io/profileCard/)
 
